@@ -14,4 +14,3 @@ A modern, fully responsive landing page built using **HTML**, **CSS**, and **Van
 - CSS3 (Flexbox & Grid)
 - JavaScript (ES6)
 - ScrollReveal.js
-س
